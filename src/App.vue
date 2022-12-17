@@ -68,7 +68,7 @@ export default {
 </script>
 
 <style>
-body {
+:root {
   min-width: 100vw;
   max-width: 425px;
   margin: 0;
@@ -83,7 +83,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-body.van-theme-dark {
+:root.van-theme-dark {
   color: rgba(255, 255, 255, 0.75);
   background-color: #202124;
 }
