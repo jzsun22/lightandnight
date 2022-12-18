@@ -28,6 +28,10 @@
 <script>
 import CountDown from '@/components/CountDown.vue'
 let dayjs = require('dayjs')
+let utc = require('dayjs/plugin/utc')
+let timezone = require('dayjs/plugin/timezone')
+dayjs.extend(utc)
+dayjs.extend(timezone)
 
 export default {
   name: 'EventsBlock',
@@ -39,7 +43,7 @@ export default {
   },
   data() {
     let eventsResult = this.events?.events?.map(event => {
-      let now = dayjs(),
+      let now = dayjs().tz('Asia/Shanghai'),
         start = dayjs.tz(event.start),
         end = dayjs.tz(event.end),
         target,
