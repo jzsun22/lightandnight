@@ -3,8 +3,8 @@
     "year": 2022,
     "week": 50,
     "changes": {
-      "updates": ["jzsun22接手维护。", "更新周期及限时活动排期。"],
-      "bugfixes": ["Fixed errors that might cause error on correctly displaying light/dark mode."]
+      "updates": ["jzsun22接手维护。", "更新周期及限时活动排期。", "[囤囤鼠计算器] 巡礼描述更新，新增最晚到期日（但仍需在日历中自行选择日期，该显示仅为提示，并非默认选择）。", "[信使花园模拟器] 添加常驻卡池「浮世同行・越界天使 / 归途」、补充限定卡池「欲海狂澜」、新增限定卡池「藏梦之森」。"],
+      "bugfixes": ["Optimized implementation to reduce chances of potential glitches on light/dark mode display."]
     }
   },
   {
