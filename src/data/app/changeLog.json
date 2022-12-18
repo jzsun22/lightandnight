@@ -1,6 +1,14 @@
 [
   {
     "year": 2022,
+    "week": 50,
+    "changes": {
+      "updates": ["jzsun22接手维护。", "更新周期及限时活动排期。"],
+      "bugfixes": ["Fixed errors that might cause error on correctly displaying light/dark mode."]
+    }
+  },
+  {
+    "year": 2022,
     "week": 42,
     "changes": {
       "updates": ["[信使花园模拟器] 添加限定卡池「过去的证人 / 归途」。"]
