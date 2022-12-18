@@ -3,7 +3,7 @@ const ComponentsPlugin = require('unplugin-vue-components/webpack')
 const path = require('path')
 
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/lightandnight/' : '/',
+  publicPath: './',
 
   chainWebpack: config => {
     config.plugin('html').tap(args => {
