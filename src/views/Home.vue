@@ -260,8 +260,8 @@ export default {
         },
         {
           name: 'Vercel',
-          hostname: 'lightandnight-js.vercel.app',
-          url: 'https://lightandnight-js.vercel.app',
+          hostname: 'lan-toolbox.vercel.app',
+          url: 'https://lan-toolbox.vercel.app',
         },
       ],
       langs: [{ text: '简体中文', value: 'zh-CN' }],
