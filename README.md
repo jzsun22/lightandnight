@@ -15,7 +15,8 @@
 欢迎大家使用，如果认为好用可随意分享。
 
 ## 使用
-* Vercel: https://lightandnight-j.vercel.app
+* Vercel: https://lightandnight-js.vercel.app
+* Github: https://jzsun22.github.io/lightandnight
 
 ## 如果我跑路了
 [@酒里酒气·](https://weibo.com/loveforev2r)私信我更新，因三次生活较为稳定，除非退坑否则不会跑路。

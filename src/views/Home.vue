@@ -255,13 +255,13 @@ export default {
       mirrors: [
         {
           name: 'GitHub Pages',
-          hostname: 'waterv.github.io',
-          url: 'https://waterv.github.io/lightandnight',
+          hostname: 'jzsun22.github.io',
+          url: 'https://jzsun22.github.io/lightandnight',
         },
         {
           name: 'Vercel',
-          hostname: 'lightandnight.vercel.app',
-          url: 'https://lightandnight.vercel.app',
+          hostname: 'lightandnight-js.vercel.app',
+          url: 'https://lightandnight-js.vercel.app',
         },
       ],
       langs: [{ text: '简体中文', value: 'zh-CN' }],
