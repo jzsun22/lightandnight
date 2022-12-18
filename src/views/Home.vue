@@ -254,11 +254,6 @@ export default {
       ],
       mirrors: [
         {
-          name: 'GitHub Pages',
-          hostname: 'jzsun22.github.io',
-          url: 'https://jzsun22.github.io/lightandnight',
-        },
-        {
           name: 'Vercel',
           hostname: 'lightandnight-js.vercel.app',
           url: 'https://lightandnight-js.vercel.app',
