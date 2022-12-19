@@ -15,6 +15,7 @@
 欢迎大家使用，如果认为好用可随意分享。
 
 ## 使用
+* 4everland: https://lightandnight.4everland.app
 * Vercel: https://lan-toolbox.vercel.app
 * Github: https://jzsun22.github.io/lightandnight
 

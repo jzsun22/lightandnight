@@ -254,6 +254,11 @@ export default {
       ],
       mirrors: [
         {
+          name: '【推荐】4everland',
+          hostname: 'lightandnight.4everland.app',
+          url: 'https://lightandnight.4everland.app',
+        },
+        {
           name: 'Github',
           hostname: 'jzsun22.github.io',
           url: 'https://jzsun22.github.io/lightandnight',
