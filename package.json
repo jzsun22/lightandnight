@@ -2,7 +2,7 @@
   "name": "lightandnight",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "http://.",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -28,6 +28,7 @@
     "util": "^0.12.4",
     "vant": "^4.0.0-beta.0",
     "vconsole": "^3.14.6",
+    "vercel": "^19.1.2",
     "vue": "^3.2.37",
     "vue-i18n": "^9.1.0",
     "vue-router": "^4.1.2"
@@ -81,5 +82,16 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "description": "北极光工作室手机游戏《光与夜之恋》相关小工具集合，包含各类计算器与抽卡模拟器。",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzsun22/lightandnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzsun22/lightandnight/issues"
   }
 }
