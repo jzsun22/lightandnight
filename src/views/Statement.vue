@@ -20,7 +20,15 @@
           @click="open('https://github.com/waterv/lightandnight')"
         >
           <template #icon><git-hub height="12" fill="white" /></template>
-          <template #default>{{ $t('statement.repo') }}</template>
+          <template #default>{{ $t('statement.og-repo') }}</template>
+        </van-button>
+        <van-button
+          color="#25292e"
+          block
+          @click="open('https://github.com/jzsun22/lightandnight')"
+        >
+          <template #icon><git-hub height="12" fill="white" /></template>
+          <template #default>{{ $t('statement.new-repo') }}</template>
         </van-button>
       </van-tab>
       <van-tab :title="$t('statement.title[1]')">
