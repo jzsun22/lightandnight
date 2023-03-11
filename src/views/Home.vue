@@ -212,10 +212,12 @@ export default {
             background: 'linear-gradient(135deg, #91c4cc, #b7ddc0)',
             to: '/gacha',
           },
+          /*
           {
             background: 'linear-gradient(135deg, #6c71c5, #93a9da)',
-            to: '/wishsim',
+            to: '/wishsim23',
           },
+          */
         ],
         [
           {
@@ -243,6 +245,10 @@ export default {
           {
             background: 'linear-gradient(135deg, #6c71c5, #93a9da)',
             to: '/wish',
+          },
+          {
+            background: 'linear-gradient(135deg, #91c4cc, #b7ddc0)',
+            to: '/wishsim',
           },
         ],
         [

@@ -16,7 +16,8 @@
     "phone": "手机模拟器 [WIP]",
     "statement": "关于与声明",
     "wish": "羁梦星愿计算器",
-    "wishsim": "羁梦花事模拟器"
+    "wishsim": "羁梦花事模拟器",
+    "wishsim23": "羁梦镜影模拟器"
   },
   "settings": {
     "mirror": "镜像",
@@ -431,6 +432,27 @@
     "dateFormat": "M 月 D 日"
   },
   "wishsim": {
+    "gacha": "许愿",
+    "complete": "恭喜您 {0} 次许愿获得全部{1}！",
+    "possibility": "{0}概率",
+    "possibilityTitle": ["奖品", "当前出率", "剩余"],
+    "possibilityDesc": ["除了「恋心」数目无限外，其余奖励全部获得后，其概率会均摊增加到其余奖励上。", "若 3 颗球同时落入浅色区域，则可以随机获取 1 份「{0}」且不会重复。"],
+    "resultTitle": "恭喜获得",
+    "gachaTime": "已许愿次数",
+    "gachaTimeDesc": "/ {0} / {1} / {2} 抽各有一次保底",
+    "giftTime": "(第 {0} 抽)　",
+    "giftNumber": "{0} × {1}",
+    "settings": {
+      "maxFrame": "动画速度",
+      "maxFrames": { "216": "慢慢速", "144": "慢速", "72": "中速", "36": "快速", "1": "光速" },
+      "weight": "奖品权重"
+    },
+    "notify": {
+      "success": "恭喜获得{0}！",
+      "protect": "您已经许愿 {0} 次，获得{1}！"
+    }
+  },
+  "wishsim23": {
     "gacha": "许愿",
     "complete": "恭喜您 {0} 次许愿获得全部{1}！",
     "possibility": "{0}概率",

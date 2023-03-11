@@ -21,6 +21,7 @@ const routes = [
     ['statement', 'Statement'],
     ['wish', 'Wish'],
     ['wishsim', 'WishSimulator'],
+    ['wishsim23', 'WishSimulator23'],
   ].map(item => ({
     path: `/${item[0]}`,
     component: () => import(`../views/${item[1]}.vue`),
