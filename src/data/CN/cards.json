@@ -757,6 +757,13 @@
         "limitedLetter": 300395,
         "price": { "6": 140 },
         "randomTime": 100
+      },
+      {
+        "name": "第三声巨响 / 归途",
+        "desc": "03/25 - 03/27",
+        "common": 11,
+        "up": { "6": [62], "5": [27] },
+        "noShop": true
       }
     ]
   }
